@@ -1,6 +1,6 @@
 ### 🧨🧨🧨
 ## My name is Anton Veselskyi
-I’m currently working for GlobalLogic as a Software Engineer,
+I’m currently working for Ubisoft,
 refactoring my old projects, doing LeetCode problems, passing Udemy courses.  
 
 - 👑 Primary skills: C/C++, Bash, Networking, OpenWrt
